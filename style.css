@@ -1,0 +1,147 @@
+/*
+External CSS file
+*/
+body {
+  max-width: 1000px;
+  margin: auto;
+  font-family: serif;
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+}
+
+h4 {
+  font: italic small-caps bolder 28px arial, san-serif;
+}
+
+div {
+  margin-top: 5px;
+  padding: 20px;
+}
+
+.box {
+  float: left;
+  display: inline-block;
+  width: 50%;
+  padding: 0px;
+  border: none;
+}
+
+.list_box {
+  width: 100%;
+  overflow: hidden;
+}
+
+#image {
+  float: left;
+  padding: 0px 20px 20px 20px;
+  height: 300px;
+  width: 300px;
+}
+
+#identity {
+  overflow: auto;
+}
+
+#background-image {
+  background-image: url("images/background.jpg");
+  height: 440px;
+  width: 875px;
+  padding-top: 50px;
+  color: #fff;
+  margin-top: 25px;
+}
+
+#content{
+  background-color: rgba(0, 0, 0, 0.7);
+  max-width: 450px;
+  padding: 30px 20px;
+  margin-top: 50px;
+}
+
+.thumbnail {
+display: inline-block;
+height: auto;
+padding: 4px;
+margin-bottom: 20px;
+background-color: #fff;
+border: 1px solid #a4a4a4;
+text-align: center;
+color: #666;
+margin: 50px;
+}
+
+#Batman {
+  height: 326px;
+  width: 300px;
+}
+
+#Begins {
+  height: 326px;
+  width: 300px;
+}
+
+#Rises {
+  height: 326px;
+  width:300px;
+}
+
+#Guitar {
+  height: 326px;
+  width: 300px;
+}
+
+#Shiva {
+  height: 450px;
+  width: 720px;
+}
+
+li   {
+  list-style-type: none;
+  margin: 10;
+  padding: 10;
+}
+
+
+li a {
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+  float: right;
+  border-right: 1px solid #bbb;
+}
+
+#banner{
+  height: 75px;
+  width: 300px;
+}
+
+.logo{
+  float: left;
+  height: 50px;
+}
+
+#header{
+  padding: 50px 1px;
+}
+
+input{
+  padding: 14px 70px;
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+
+#subscribe {
+border: none;
+background-color: #26211f;
+color: white;
+font-size: 16px;
+margin: 4px -4px;
+padding: 16px 40px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: Grey;
+  color: white;
+}
