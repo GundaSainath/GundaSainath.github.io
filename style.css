@@ -179,3 +179,7 @@ color:#fff;
 .ok:hover{
   color:black;
 }
+img:hover {
+  transform: scale(1.2);
+}
+
